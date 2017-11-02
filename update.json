@@ -1,10 +1,11 @@
 {
-    "homepage": "",
+    "homepage": "https://minecraft.curseforge.com/projects/jj-coats-of-arms",
     "promos": {
-        "1.12.2-latest": "1.0.0",
-        "1.12.2-recommended": "1.0.0"
+        "1.12.2-latest": "1.0.1",
+        "1.12.2-recommended": "1.0.1"
     },
     "1.12.2": {
-        "1.0.0": "See https://github.com/JdiJack/JJCoatsOfArms/releases/1.0.0\n"
+        "1.0.0": "See https://github.com/JdiJack/JJ-Coats-of-Arms/releases/1.0.0\n",
+        "1.0.1": "See https://github.com/JdiJack/JJ-Coats-of-Arms/releases/1.0.1\n"
     }
 }
