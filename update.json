@@ -7,12 +7,12 @@
         "1.10.1-recommended": "1.0.9",
         "1.10.2-latest": "1.0.9",
         "1.10.2-recommended": "1.0.9",        
-        "1.12-latest": "1.0.10",
-        "1.12-recommended": "1.0.10",
-        "1.12.1-latest": "1.0.10",
-        "1.12.1-recommended": "1.0.10",
-        "1.12.2-latest": "1.0.10",
-        "1.12.2-recommended": "1.0.10"
+        "1.12-latest": "1.0.11",
+        "1.12-recommended": "1.0.11",
+        "1.12.1-latest": "1.0.11",
+        "1.12.1-recommended": "1.0.11",
+        "1.12.2-latest": "1.0.11",
+        "1.12.2-recommended": "1.0.11"
     },
     "1.10": {
         "1.0.2": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2496829\n",
@@ -46,7 +46,8 @@
         "1.0.7": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2512400\n",
         "1.0.8": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2516743\n",
         "1.0.9": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2522956\n",
-        "1.0.10": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2912309\n"        
+        "1.0.10": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2912309\n",
+        "1.0.11": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2913063\n"        
     },
     "1.12.1": {
         "1.0.4": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2502101\n",
@@ -54,7 +55,8 @@
         "1.0.7": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2512400\n",
         "1.0.8": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2516743\n",
         "1.0.9": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2522956\n",
-        "1.0.10": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2912309\n" 
+        "1.0.10": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2912309\n",
+        "1.0.11": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2913063\n" 
     },
     "1.12.2": {
         "1.0.0": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2496437\n",
@@ -65,6 +67,7 @@
         "1.0.7": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2512400\n",
         "1.0.8": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2516743\n",
         "1.0.9": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2522956\n",
-        "1.0.10": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2912309\n"  
+        "1.0.10": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2912309\n",
+        "1.0.11": "See https://www.curseforge.com/minecraft/mc-mods/jj-coats-of-arms/files/2913063\n"  
     }
 }
